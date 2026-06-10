@@ -1,0 +1,4 @@
+{
+    "tipo": "trabajo social",
+    "descripcion": "La sociedad debe trabajar en conjunto para avanzar"
+    }
