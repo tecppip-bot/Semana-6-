@@ -1,0 +1,7 @@
+Al remitir una peticion POST a /registro, el servidor devuelve:
+
+{
+    "etsado": "Datos recibidos",
+    "nombre": "deisy",
+    "mensaje": "que mas mi compa"
+    }
