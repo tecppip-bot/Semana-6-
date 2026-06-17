@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "comunal",
+  "descripcion": "Daño al bien ajeno"
+}
+
+Ejemplo 2:
+{
+  "tipo": "social",
+  "descripcion": "disturbios por la ultima pola"
+}
