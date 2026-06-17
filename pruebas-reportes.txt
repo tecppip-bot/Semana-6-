@@ -1,0 +1,2 @@
+Al enviar un POST se guarda el reporte en memoria.
+Al consultar con GET, se devuelve un arreglo con los reportes registrados.
