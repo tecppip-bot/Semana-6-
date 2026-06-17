@@ -1,16 +1,29 @@
 {
+<<<<<<< HEAD
   "name": "semana-6",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
+=======
+  "name": "semana7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> b6524d5 (semana 7)
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1"
+<<<<<<< HEAD
   },
   "description": ""
+=======
+  }
+>>>>>>> b6524d5 (semana 7)
 }
