@@ -1,6 +1,7 @@
 {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "semana-6",
   "version": "1.0.0",
   "main": "index.js",
@@ -12,21 +13,28 @@
 =======
   "name": "semana8",
 >>>>>>> 1d3a262 ( semana 8 actividades)
+=======
+  "name": "semana_9",
+>>>>>>> 43e7aa8 (semana9)
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> b6524d5 (semana 7)
 =======
 >>>>>>> 1d3a262 ( semana 8 actividades)
+=======
+>>>>>>> 43e7aa8 (semana9)
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   },
@@ -37,4 +45,7 @@
 =======
   }
 >>>>>>> 1d3a262 ( semana 8 actividades)
+=======
+  }
+>>>>>>> 43e7aa8 (semana9)
 }
