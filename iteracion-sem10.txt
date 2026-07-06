@@ -1,0 +1,15 @@
+¿Qué 2 tareas del backlog harías primero?
+registrar una incidencia 
+buscar recibir alerta cuando se genere un nuevo reporte 
+
+¿Por qué son las más importantes?
+la primera muestra una evidencia clara y verificada 
+la segunda permite una respuesta rápida 
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Que cumplió con los criterios requeridos 
+
+
+Fue aprobada 
+quedo registrada en git 
+esta documentada 

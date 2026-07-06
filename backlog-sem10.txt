@@ -1,0 +1,9 @@
+Como ciudadano quiero registrar una incidencia con foto y ubicación para dejar evidencia clara del caso.
+
+Como coordinador comunitario quiero recibir una alerta inmediata en WhatsApp/Telegram cuando se genere un nuevo reporte para poder actuar rápido.
+
+Como miembro del equipo de veeduría quiero consultar un tablero con todos los reportes clasificados por estado para hacer seguimiento.
+
+Como administrador municipal quiero exportar los reportes a Excel para consolidar estadísticas y presentarlas en reuniones.
+
+Como vecino quiero poder comentar o dar “me gusta” a un reporte existente para apoyar la denuncia y visibilizarla.

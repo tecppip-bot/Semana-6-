@@ -1,0 +1,7 @@
+Evento: Cuando un ciudadano actualiza el estado de un reporte existente en el sistema
+
+Acción: Un reporte ha cambiado de estado. Verifica el seguimiento en la plataforma.
+
+Mensaje: Datos personales del ciudadano (nombres completos, cédulas, direcciones, teléfonos).
+
+Información que no debe enviarse: Información interna de autenticación del sistema y documentos oficiales, claves, y o seguridad privada 
