@@ -1,0 +1,5 @@
+# Preguntas - Semana 11
+
+1. ¿Cuál es el objetivo principal del módulo de la semana 11?
+2. ¿Qué requerimientos de seguridad se deben considerar?
+3. ¿Cómo se valida la información de entrada?

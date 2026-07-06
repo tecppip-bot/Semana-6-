@@ -1,0 +1,8 @@
+# Interfaz - Semana 11
+
+Descripción: Detalles de diseño y funcionalidad de la interfaz de usuario para el módulo de la semana 11.
+
+Puntos clave:
+- Elementos de navegación.
+- Diseño responsivo.
+- Experiencia de usuario.

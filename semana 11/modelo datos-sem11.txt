@@ -1,0 +1,8 @@
+# Modelo de Datos - Semana 11
+
+Descripción: Estructura de datos usada en el proyecto de la semana 11.
+
+Puntos clave:
+- Entidades principales.
+- Relaciones entre datos.
+- Campos sensibles y su manejo.

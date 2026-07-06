@@ -1,0 +1,8 @@
+# Autenticación - Semana 11
+
+Descripción: Explicación sobre cómo funciona la autenticación en la aplicación.
+
+Puntos clave:
+- Control de acceso por roles.
+- Protección de rutas sensibles.
+- Manejo seguro de credenciales.
