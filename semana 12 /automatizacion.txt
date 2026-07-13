@@ -1,0 +1,3 @@
+Evento: cuando un ciudadano envía una petición desde la plataforma
+Mensaje: “Se ha recibido una nueva petición ciudadana, revisa el panel de seguimiento”.
+Información que no debe enviarse: números de documento, correos personales, direcciones, teléfonos o comentarios privados que puedan comprometer la seguridad de los usuarios
