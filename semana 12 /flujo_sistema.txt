@@ -1,0 +1,9 @@
+Un ciudadano ingresa a la plataforma y redacta su petición.
+
+La petición se guarda automáticamente en la base de datos.
+
+Otros ciudadanos pueden leer la petición y apoyarla con un clic.
+
+El sistema suma los apoyos y actualiza el contador en tiempo real.
+
+Cuando la petición alcanza un número definido de apoyos, se genera un documento oficial para enviarlo a la entidad correspondiente.
