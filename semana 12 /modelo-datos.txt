@@ -1,0 +1,25 @@
+Entidad 1
+
+Usuario
+
+id
+
+nombre
+
+correo
+
+rol
+
+
+Entidad 2
+
+Petición
+
+id
+
+usuario_id
+
+titulo
+
+descripcion
+
